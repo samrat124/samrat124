@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" align="center" style="width: 100%" />
 </div>  
   
@@ -82,12 +82,7 @@
 
 
 ## Recent Blog Posts  
-
-
-### https://samrat99999.hashnode.dev/bliss-club-clone  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 <br/>  
 
