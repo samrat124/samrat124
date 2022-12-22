@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 💼 Pls visit **<a href="https://peaceful-otter-646d43.netlify.app/">My Portfolio</a>**
+- 💼 Pls visit **<a href="https://samrat-kumar.netlify.app/">My Portfolio</a>**
 
 - 📫 How to reach me **sam9999950@gmail.com**
 
