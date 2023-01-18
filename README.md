@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **sam9999950@gmail.com**
 
-- 📉 **Have a look into** [My Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📉 **Have a look into** [My Resume](https://drive.google.com/file/d/16J1-UAbwFdFFGhRYER2uW0HUg3s-TsgJ/view?usp=sharing)
 
 - ⚡ Solving coding problems on HackerRank, Leetcode & GeeksForGeeks and explore new skills is my favourite pastime
   .
@@ -50,10 +50,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samrat124" alt="samratkumar" /></a> </p>
 
-<!-- [![Samrat's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vikasviplav&&theme=xcode)](https://github.com/vikasviplav) -->
+<!-- [![Samrat's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=samrat124&&theme=xcode)](https://github.com/samrat124) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samrat124&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="samratkumar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samrat124&show_icons=true&locale=en&theme=tokyonight" alt="samratkumar" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrat124&&theme=tokyonight" alt="vikasviplav" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrat124&&theme=tokyonight" alt="samratkumar" /></p> -->
