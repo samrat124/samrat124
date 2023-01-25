@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samrat124" alt="samrat124" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [Ankit Rana](https://ranankit.com)
+- 👨‍💻 All of my projects are available at [Ankit Rana](https://samrat-kumar.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS and Java**
 
