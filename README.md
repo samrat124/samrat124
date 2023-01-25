@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samrat124" alt="samrat124" /></a> </p>
 
 
--   I am a passionate full stack developer from India .I would love to learn new stack and implement on my projects . I would love to design and build new stuff .
+-   I am a passionate full stack developer from India. I love to learn new stack and implement on my projects. I would love to design and build new stuff.
 - 👨‍💻 All of my projects are available at [Samrat Kumar](https://samrat-kumar.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS and Java**
