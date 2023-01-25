@@ -8,13 +8,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samrat124" alt="samrat124" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [Ankit Rana](https://samrat-kumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [Samrat Kumar](https://samrat-kumar.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS and Java**
 
 - 📫 How to reach me **sam9999950@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16J1-UAbwFdFFGhRYER2uW0HUg3s-TsgJ/view]( https://drive.google.com/file/d/16J1-UAbwFdFFGhRYER2uW0HUg3s-TsgJ/view)
+- 📄 Know about my experiences [Resume]( https://drive.google.com/file/d/16J1-UAbwFdFFGhRYER2uW0HUg3s-TsgJ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
