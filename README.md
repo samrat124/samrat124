@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samrat Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center"> Hello! I am Samrat Kumar, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving.</h3>
 
 <p align="center"><img  height="300px" width="400px" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif" alt="gif"/></p>
 
