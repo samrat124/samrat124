@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS and Java**
 
-- 📫 How to reach me **sam9999950@gmail.com**
+- 📫 How to reach me **samratkf6@gmail.com**
 
 - 📄 Know about my experiences [Resume]( https://drive.google.com/file/d/16J1-UAbwFdFFGhRYER2uW0HUg3s-TsgJ/view)
 
